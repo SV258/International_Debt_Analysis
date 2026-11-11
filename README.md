@@ -41,19 +41,19 @@ The report contains four pages with year filters and dynamic titles.
 
 ### Debt Overview
 
-![Debt Overview](../screenshots/Debt_Overview.png)
+![Debt Overview](screenshots/debt_overview.png)
 
 ### Debt Trends Analysis
 
-![Debt Trends Analysis](../screenshots/Debt_Trends_Analysis.png)
+![Debt Trends Analysis](screenshots/Debt_Trends_Analysis.png)
 
 ### Country Debt Analysis
 
-![Country Debt Analysis](../screenshots/Country_Debt_Analysis.png)
+![Country Debt Analysis](screenshots/country_debt_analysis.png)
 
 ### Indicator Analysis
 
-![Indicator Analysis](../screenshots/Indicator_Analysis.png)
+![Indicator Analysis](screenshots/Indicator_Analysis.png)
 
 ## Main filess
 
