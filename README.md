@@ -37,21 +37,25 @@ Explore external debt across reporting countries, compare country debt levels an
 
 ## Power BI dashboard
 
-The report contains three pages with year filters and dynamic titles.
+The report contains four pages with year filters and dynamic titles.
 
 ### Debt Overview
 
-![Debt Overview](screenshots/debt_overview.png)
+![Debt Overview](../screenshots/Debt_Overview.png)
 
 ### Debt Trends Analysis
 
-![Debt Trends Analysis](screenshots/debt_trends.png)
+![Debt Trends Analysis](../screenshots/Debt_Trends_Analysis.png)
 
 ### Country Debt Analysis
 
-![Country Debt Analysis](screenshots/country_debt_analysis.png)
+![Country Debt Analysis](../screenshots/Country_Debt_Analysis.png)
 
-## Main files
+### Indicator Analysis
+
+![Indicator Analysis](../screenshots/Indicator_Analysis.png)
+
+## Main filess
 
 | File | Purpose |
 | --- | --- |
